@@ -193,4 +193,13 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
   </tr>
+  <tr>
+    <td>더페이스샵</td>
+    <td>잉크립쿼드체</td>
+    <td>the-faceshop</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
 </table>
