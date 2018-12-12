@@ -53,3 +53,144 @@ brew search font-[폰트명]
 # 예시
 brew search font-d2coding
 ```
+
+## 사용 가능한 무료 한글 폰트 사용범위 정리
+
+- [시트 바로가기](https://docs.google.com/spreadsheets/d/1N8ZQn02n7mG3QCqMrJTp-jkI3yfLa9AIVBjY1uRbU30/edit?usp=sharing)
+
+<table>
+  <tr>
+    <th rowspan="2">브랜드</th>
+    <th rowspan="2">폰트명</th>
+    <th rowspan="2"><br>설치 폰트명<br></th>
+    <th colspan="2">비영리</th>
+    <th colspan="2">영리</th>
+  </tr>
+  <tr>
+    <td>개인</td>
+    <td>단체</td>
+    <td>간판, 현수막, BI, CI 등</td>
+    <td>글꼴 수정</td>
+  </tr>
+  <tr>
+    <td rowspan="15">네이버</td>
+    <td>D2 코딩체</td>
+    <td>d2coding</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔스퀘어라운드체</td>
+    <td>nanumsquare-round</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔스퀘어체</td>
+    <td>nanumsquare</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔바른펜체</td>
+    <td>nanumbarun-pen</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔바른고딕체</td>
+    <td>nanumbarungothic</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔바른고딕옛한글체</td>
+    <td>nanumbarungothic-hangul</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔명조체</td>
+    <td>nanummyeongjo</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔명조옛한글체</td>
+    <td>nanummyeongjo-hangul</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔명조에코체</td>
+    <td>nanummyeongjo-eco</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔고딕체</td>
+    <td>nanumgothic</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔고딕코딩체</td>
+    <td>nanumgothic-coding</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔고딕에코체</td>
+    <td>nanumgothic-eco</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔고딕라이트체</td>
+    <td>nanumgothic-light</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔손글씨붓체</td>
+    <td>nanum-brush</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>나눔손글씨펜체</td>
+    <td>nanum-pen</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+</table>
