@@ -14,3 +14,8 @@ font-nanumsquare-round
 font-nanumsquare
 font-the-faceshop
 font-ygot-jalnan
+font-baemin-hanna11yrs
+font-baemin-jua
+font-baemin-dohyeon
+font-baemin-yeonsung
+font-baemin-kiranghaerang
