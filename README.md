@@ -3,16 +3,16 @@
 이 프로젝트는 한글 무료 글꼴 폰트 공식 홈페이지에서 일일이 들어가서 다운로드를 하고 압축을 풀고 폴더에 옮기는 단순작업의 번거로움을 줄이기 위해 만들어졌습니다.
 
 - 이 프로젝트에서 받아오는 글꼴 파일들은 공식 홈페이지 다운로드 페이지에서 가져온 뒤 단순히 설치 경로에 옮겨주기만 합니다.
-- 제작사에서 제공하는 홈페이지를 통해 적법하게 내려받은 폰트를 사용한 경우는 저작권 침해가 아닙니다.
-- 이미 번들 소프트웨어로만 제공되는 폰트들은 제외시켰습니다. (예: 윤고딕, 아시아폰트 등)
+- 이미 번들 소프트웨어로만 제공되는 일부 폰트들은 폰트파일 대신 번들 프로그램을 설치합니다. (예: 윤고딕, 아시아폰트 등)
 - 공식 홈페이지의 다운로드 서버가 매우 불안정 하거나 파일 인코딩 문제로 인해 깨지는 경우 미러 사이트를 제공 할 수 있습니다.
 
-이곳에서 배포하고 있는 폰트들은 공개 되어있는 무료 글꼴 폰트일뿐, 비영리 목적으로만 사용이 가능한 폰트가 포함되어 있습니다.
-반드시 상업적으로 사용 목적이라면 폰트 사용범위를 읽어보시기 바랍니다. `폰트 저작권으로 인한 법적 문제는 절대 책임지지 않습니다.`
+이 프로젝트에서 지원하고 있는 폰트들은 무료로 공개 되어있는 폰트일뿐, 비영리 목적으로만 사용이 가능한 폰트를 포함하고 있습니다.
+서체의 지적재산권은 각 서체 제작자 및 제작사에 있으며, 이 프로젝트를 유지하는 @leejongyoung은 서체 제작자 및 제작사와 관련이 없습니다.
+폰트 소프트웨어의 사용과 취급으로 인하여 발생하는 일에 대해서 @leejongyoung은 책임이나 의무를 가지지 않습니다.
 
-폰트타입은 최대한 `Open Type Font` 우선적으로 가져오나, 일부는 `True Type Font` 입니다.
+폰트 다운로드 경로는 `OTF` 확장자를 우선적으로 가져오나, 일부 폰트는 `TTF` 확장자를 제공합니다.
 
-이 프로젝트를 사용하기 위해서는 `HomeBrew` 라는 패키지 관리 도구가 설치 되어 있어야 합니다.
+이 프로젝트를 사용하기 위해서는 `HomeBrew` 라는 패키지 관리 도구를 이용하여 설치를 합니다.
 
 이 프로젝트가 마음에 들지 않거나 지원을 원하는 저작권자는 Issues 탭을 통해 알려주세요.
 
@@ -54,9 +54,19 @@ brew search font-[폰트명]
 brew search font-d2coding
 ```
 
+## 프로젝트 라이선스
+
+이 프로젝트는 [MIT](/LICENSE.md) 라이선스를 따르고 있습니다.
+
 ## 사용 가능한 무료 한글 폰트 사용범위 정리
 
-- [시트 바로가기](https://docs.google.com/spreadsheets/d/1N8ZQn02n7mG3QCqMrJTp-jkI3yfLa9AIVBjY1uRbU30/edit?usp=sharing)
+자세한 라이선스 가이드는 폰트 제조사 페이지 혹은 눈누 홈페이지를 참고해주세요.
+
+- [눈누 홈페이지](https://noonnu.cc/)
+
+```
+허용: O   조건부 허용: △   라이선스 구입 필요: ▲   비허용: X
+```
 
 <table>
   <tr>
@@ -64,18 +74,22 @@ brew search font-d2coding
     <th rowspan="2">폰트명</th>
     <th rowspan="2"><br>설치 폰트명<br></th>
     <th colspan="2">비영리</th>
-    <th colspan="2">영리</th>
+    <th colspan="4">영리</th>
   </tr>
   <tr>
     <td>개인</td>
     <td>단체</td>
-    <td>간판, 현수막, BI, CI 등</td>
-    <td>글꼴 수정</td>
+    <td>인쇄물<br>포장지</td>
+    <td>BI/CI</td>
+    <td>임베딩</td>
+    <td>OFL</td>
   </tr>
   <tr>
     <td rowspan="15">네이버</td>
     <td>D2 코딩체</td>
     <td>d2coding</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -88,10 +102,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔스퀘어체</td>
     <td>nanumsquare</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -104,10 +122,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔바른고딕체</td>
     <td>nanumbarungothic</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -120,10 +142,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔명조체</td>
     <td>nanummyeongjo</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -136,10 +162,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔명조에코체</td>
     <td>nanummyeongjo-eco</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -152,10 +182,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔고딕코딩체</td>
     <td>nanumgothic-coding</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -168,10 +202,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔고딕라이트체</td>
     <td>nanumgothic-light</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -184,10 +222,14 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+    <td>O</td>
+    <td>O</td>
   </tr>
   <tr>
     <td>나눔손글씨펜체</td>
     <td>nanum-pen</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
@@ -197,6 +239,19 @@ brew search font-d2coding
     <td>더페이스샵</td>
     <td>잉크립쿼드체</td>
     <td>the-faceshop</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>워드이노베이션</td>
+    <td>여기어때 잘난서체</td>
+    <td>ygot-jalnan</td>
+    <td>O</td>
+    <td>O</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>

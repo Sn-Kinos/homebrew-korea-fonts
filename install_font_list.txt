@@ -13,3 +13,4 @@ font-nanummyeongjo
 font-nanumsquare-round
 font-nanumsquare
 font-the-faceshop
+font-ygot-jalnan
