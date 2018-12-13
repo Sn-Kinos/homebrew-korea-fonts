@@ -29,7 +29,7 @@
 #### 1. 모든 폰트 한번에 설치
 
 ``` sh
-curl -L https://raw.gitlab.com/leejongyoung/homebrew-korea-fonts/master/install.sh | sh
+curl -L https://raw.githubusercontent.com/leejongyoung/homebrew-korea-fonts/master/install.sh | sh
 ```
 
 #### 2. 폰트 개별 설치
