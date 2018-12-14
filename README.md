@@ -319,4 +319,15 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
   </tr>
+  <tr>
+    <td>넷마블</td>
+    <td>넷마블체</td>
+    <td>netmarble</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>X</td>
+    <td>O</td>
+    <td>X</td>
+  </tr>
 </table>

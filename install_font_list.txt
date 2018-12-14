@@ -20,3 +20,4 @@ font-baemin-dohyeon
 font-baemin-yeonsung
 font-baemin-kiranghaerang
 font-sqoqa-han-sans
+font-netmarble
