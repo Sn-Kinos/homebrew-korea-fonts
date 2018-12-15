@@ -21,3 +21,4 @@ font-baemin-yeonsung
 font-baemin-kiranghaerang
 font-spoqa-han-sans
 font-netmarble
+font-tmon-monsori
