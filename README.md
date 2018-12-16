@@ -330,4 +330,18 @@ brew search font-d2coding
     <td>O</td>
     <td>X</td>
   </tr>
+  <tr>
+    <td rowspan="2">서울시</td>
+    <td>한강체</td>
+    <td rowspan="2">seoul</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+  </tr>
+  <tr>
+    <td>남산체</td>
+  </tr>
 </table>
