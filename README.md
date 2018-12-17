@@ -256,7 +256,6 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
-<<<<<<< HEAD
   </tr>
   <tr>
     <td rowspan="5">우아한형제들</td>
@@ -330,12 +329,25 @@ brew search font-d2coding
     <td>X</td>
     <td>O</td>
     <td>X</td>
-<!-->>>>>>>> d3423d3... Release resolve #17--> 
+  </tr>
+  <tr>
+    <td rowspan="2">서울시</td>
+    <td>한강체</td>
+    <td rowspan="2">seoul</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+    <td rowspan="2">O</td>
+  </tr>
+  <tr>
+    <td>남산체</td>
   </tr>
   <tr>
     <td>티몬</td>
-    <td>몬소리<td/>
-    <td>Monsori</td>
+    <td>몬소리></td>
+    <td>monsori</td>
     <td>O</td>
     <td>O</td>
     <td>O</td>
