@@ -356,7 +356,7 @@ brew search font-d2coding
     <td>O</td>
   </tr>
   <tr>
-    <td>고도디자인</td>
+    <td>NHN</td>
     <td>고도체</td>
     <td>godo</td>
     <td>O</td>
