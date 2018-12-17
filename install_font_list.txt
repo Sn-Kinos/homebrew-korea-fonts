@@ -13,6 +13,7 @@ font-nanummyeongjo
 font-nanumsquare-round
 font-nanumsquare
 font-the-faceshop
+<<<<<<< HEAD
 font-ygot-jalnan
 font-baemin-hanna11yrs
 font-baemin-jua
@@ -22,3 +23,6 @@ font-baemin-kiranghaerang
 font-spoqa-han-sans
 font-netmarble
 font-tmon-monsori
+=======
+font-ygot-jalnan
+>>>>>>> d3423d3... Release resolve #17

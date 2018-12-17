@@ -256,6 +256,7 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
+<<<<<<< HEAD
   </tr>
   <tr>
     <td rowspan="5">우아한형제들</td>
@@ -329,5 +330,17 @@ brew search font-d2coding
     <td>X</td>
     <td>O</td>
     <td>X</td>
+=======
+>>>>>>> d3423d3... Release resolve #17
   </tr>
+  <tr>
+    <td>티몬</td>
+    <td>몬소리<td/>
+    <td>Monsori</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
 </table>
