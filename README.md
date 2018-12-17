@@ -330,8 +330,7 @@ brew search font-d2coding
     <td>X</td>
     <td>O</td>
     <td>X</td>
-=======
->>>>>>> d3423d3... Release resolve #17
+<!-->>>>>>>> d3423d3... Release resolve #17--> 
   </tr>
   <tr>
     <td>티몬</td>
