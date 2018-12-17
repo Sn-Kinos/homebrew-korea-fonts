@@ -1,5 +1,3 @@
-readme.md
-
 # HomeBrew 한글 무료 글꼴 폰트
 
 이 프로젝트는 한글 무료 글꼴 폰트 공식 홈페이지에서 일일이 들어가서 다운로드를 하고 압축을 풀고 폴더에 옮기는 단순작업의 번거로움을 줄이기 위해 만들어졌습니다.
@@ -367,5 +365,5 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
     <td>O</td>
-  </td>
+  </tr>
 </table>
