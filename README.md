@@ -366,4 +366,15 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
   </tr>
+  <tr>
+    <td>부산광역시</td>
+    <td>부산체</td>
+    <td>busan</td>
+    <td>O</td>
+    <td>O</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
 </table>
