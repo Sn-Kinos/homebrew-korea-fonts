@@ -377,4 +377,15 @@ brew search font-d2coding
     <td>X</td>
     <td>X</td>
   </tr>
+  <tr>
+    <td>야놀자</td>
+    <td>야놀자체</td>
+    <td>yaloja</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
 </table>
