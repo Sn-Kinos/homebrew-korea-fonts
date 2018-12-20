@@ -388,4 +388,15 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
   </tr>
+  <tr>
+    <td>이롭게</td>
+    <td>이롭게바탕체</td>
+    <td>iropke</td>
+    <td>O</td>
+    <td>O</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
 </table>
