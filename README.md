@@ -399,4 +399,15 @@ brew search font-d2coding
     <td>X</td>
     <td>X</td>
   </tr>
+  <tr>
+    <td>adobe</td>
+    <td>본고딕</td>
+    <td>bongodic</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
 </table>
