@@ -410,4 +410,15 @@ brew search font-d2coding
     <td>O</td>
     <td>O</td>
   </tr>
+  <tr>
+    <td>bingrae</td>
+    <td>빙그레체</td>
+    <td>bingfont</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+    <td>O</td>
+  </tr>
 </table>
